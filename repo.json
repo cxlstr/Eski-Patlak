@@ -1,8 +1,8 @@
 {
-    "name": "Makoto'nun Cloudstream Reposu",
-    "description": "Türkçe Cloudstream eklentiler listesi",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/Sertel392/Makotogecici/refs/heads/main/plugins.json"
-    ]
+  "name": "Makoto'nun Cloudstream Reposu",
+  "description": "Türkçe Cloudstream eklentiler listesi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/cxlstr/Eski-Patlak/main/plugins.json"
+  ]
 }
