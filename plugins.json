@@ -78,4 +78,60 @@
     "url": "https://raw.githubusercontent.com/cxlstr/Eski-Patlak/main/GolgeTV.cs3",
     "name": "GolgeTV"
   }
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/cxlstr/Eski-Patlak",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "cxlstr"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Exxen",
+    "description": "Exxen eklentisi",
+    "url": "https://raw.githubusercontent.com/cxlstr/Eski-Patlak/main/Exxen.cs3",
+    "name": "Exxen"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/cxlstr/Eski-Patlak",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "cxlstr"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Gain",
+    "description": "Gain eklentisi",
+    "url": "https://raw.githubusercontent.com/cxlstr/Eski-Patlak/main/Gain.cs3",
+    "name": "Gain"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/cxlstr/Eski-Patlak",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "cxlstr"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "GolgeTV",
+    "description": "GolgeTV eklentisi",
+    "url": "https://raw.githubusercontent.com/cxlstr/Eski-Patlak/main/GolgeTV.cs3",
+    "name": "GolgeTV"
+  }
 ]
+
