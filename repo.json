@@ -1,7 +1,7 @@
 {
   "name": "Eski Patlak",
   "description": "Türkçe Cloudstream eklentileri",
-  "manifestVersion": 0,
+  "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/cxlstr/Eski-Patlak/main/plugins.json"
   ]
